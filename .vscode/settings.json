@@ -1,3 +1,4 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git_BC\\bin\\bash.exe"
 }
